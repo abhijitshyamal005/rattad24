@@ -1,0 +1,9 @@
+env:
+  - variable: DB_PASSWORD
+    secret: DB_PASSWORD
+  - variable: DB_NAME
+    secret: DB_NAME
+  - variable: DB_USER
+    secret: DB_USER
+  - variable: INSTANCE_CONNECTION
+    secret: INSTANCE_CONNECTION
