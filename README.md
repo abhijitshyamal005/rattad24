@@ -1,4 +1,4 @@
-# simplecx - Landing Page
+#Rattad24
 
 ## To get a local copy of this repository kindly follow the steps below.
 
@@ -19,23 +19,6 @@
 
 `npm run biome:check`
 
-## How to make a Pull Request (PR)
-
-- Give your PR a proper title **(e.g Feature - Implement User Authentication)**
-- Highlight what you achieved in PR.
-- Make sure the target branch is pointing to **develop** branch
-- Make sure all checks passed
-- Request an official review from **olawale-o**
-
-## Routes
-
-- **/** - home
-- **/about** - about
-- **/contact** - contact
-- **/term-of-service** - term of service
-- **/pricing** - pricing
-- **/faq** - frequently asked question
-- **/.\*\*** - Not found
 
 ## Guidelines
 
